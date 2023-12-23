@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "CustomDeformer",
+	"Description": "A plugin for providing custom deformers",
+	"Category": "Animation",
+	"CreatedBy": "dest1yo",
+	"CreatedByURL": "https://github.com/dest1yo/CustomDeformer",
+	"DocsURL": "https://github.com/dest1yo/CustomDeformer",
+	"MarketplaceURL": "",
+	"SupportURL": "https://github.com/dest1yo/CustomDeformer",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": true,
+	"EnabledByDefault": true,
+	"Plugins": [
+		{
+			"Name": "DeformerGraph",
+			"Enabled": true
+		}
+	]
+}
